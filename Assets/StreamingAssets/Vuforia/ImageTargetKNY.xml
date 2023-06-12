@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Uzui" size="0.215000 0.286667" />
+    <ImageTarget name="Iguro" size="0.215000 0.286667" />
+    <ImageTarget name="Tanjiro" size="0.215000 0.286667" />
+    <ImageTarget name="Zenitsu" size="0.215000 0.286667" />
+    <ImageTarget name="Nezuko" size="0.215000 0.286667" />
+    <ImageTarget name="Inosuke" size="0.250000 0.333333" />
+  </Tracking>
+</QCARConfig>
